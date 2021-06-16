@@ -24,4 +24,7 @@ Flow of the Website:
 				
 Youtube Link :https://youtu.be/lij_dD-qyx0
 
-Linkdin Profile: linkedin.com/in/jyoti-rajput-93a0571b4
+Linkdin Profile: https://www.linkedin.com/in/jyoti-rajput-93a0571b4/
+
+Website Link : https://transaction-website.000webhostapp.com/index.php
+
